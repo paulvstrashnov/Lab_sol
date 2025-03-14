@@ -26,7 +26,6 @@ ENV/
 *.swp
 *.swo
 .ipynb_checkpoints
-*.csv
 *.sqlite
 *.db
 *.hdf5
